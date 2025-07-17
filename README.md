@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Payal Yadav</h1>
-<h3 align="center">I'm pursuing Final Year of Electronics and Telecommunication Engineering. I have certified in C, C++,Basic Java Programming Languages. Now I'm progressively completing the Advance Java and Frameworks. For lookout for learning opportunities and overcome challenges in varies fields and gaining the knowledge all the while. I am dedicated to my work, also explore new fields. I hope to get some opportunities and gain some knowledge.</h3>
+<h3 align="center">Recently completed Final Year of Electronics and Telecommunication Engineering with gpa of 9.32. I have certified in C, C++,Basic Java Programming Languages. Now I'm progressively completing the Advance Java and Frameworks. For lookout for learning opportunities and overcome challenges in varies fields and gaining the knowledge all the while. I am dedicated to my work, also explore new fields. I hope to get some opportunities and gain some knowledge.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=payal-yadav23&label=Profile%20views&color=0e75b6&style=flat" alt="payal-yadav23" /> </p>
 
@@ -16,7 +16,8 @@
 - 📫 How to reach me **payal.p.yadav45@gmail.com**
 
 - ⚡ Fun fact **I love solving logic-based problems and exploring new tech trends!**
-  
+
+  <h3>My Portfolio 👉 <a href = "https://payalyadav-portfolio.netlify.app/"> https://payalyadav-portfolio.netlify.app/ </a></h3>
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="500">
 
